@@ -1,0 +1,12 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.div1 {
+    border: 2px solid red; 
+}
+
+.div2 {
+    border: 2px solid red; 
+}
